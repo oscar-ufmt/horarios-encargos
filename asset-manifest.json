@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/horarios-encargos/static/css/main.e6c13ad2.css",
+    "main.js": "/horarios-encargos/static/js/main.1c15387f.js",
+    "static/js/977.05d66cdd.chunk.js": "/horarios-encargos/static/js/977.05d66cdd.chunk.js",
+    "static/js/455.c93b145e.chunk.js": "/horarios-encargos/static/js/455.c93b145e.chunk.js",
+    "static/js/453.ae151b13.chunk.js": "/horarios-encargos/static/js/453.ae151b13.chunk.js",
+    "index.html": "/horarios-encargos/index.html",
+    "main.e6c13ad2.css.map": "/horarios-encargos/static/css/main.e6c13ad2.css.map",
+    "main.1c15387f.js.map": "/horarios-encargos/static/js/main.1c15387f.js.map",
+    "977.05d66cdd.chunk.js.map": "/horarios-encargos/static/js/977.05d66cdd.chunk.js.map",
+    "455.c93b145e.chunk.js.map": "/horarios-encargos/static/js/455.c93b145e.chunk.js.map",
+    "453.ae151b13.chunk.js.map": "/horarios-encargos/static/js/453.ae151b13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1c15387f.js"
+  ]
+}
