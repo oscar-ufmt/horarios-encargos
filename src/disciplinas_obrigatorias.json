@@ -1,0 +1,324 @@
+[
+  {
+    "codigo": "114300071",
+    "nome": "Algoritmos e Estruturas de Dados I",
+    "carga_horaria": "64h",
+    "semestre": "1",
+    "professor": ["Prof. Gustavo"]
+  },
+  {
+    "codigo": "114300004",
+    "nome": "Cálculo I ",
+    "carga_horaria": "96h",
+    "semestre": "1",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200305",
+    "nome": "Ciência, Tecnologia e Sociedade (EAD)",
+    "carga_horaria": "32h",
+    "semestre": "1",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200306",
+    "nome": "Escrita Científica",
+    "carga_horaria": "64h",
+    "semestre": "1",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114100014",
+    "nome": "Química Geral",
+    "carga_horaria": "32h",
+    "semestre": "1",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114100015",
+    "nome": "Química Geral Experimental",
+    "carga_horaria": "32h",
+    "semestre": "1",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200405",
+    "nome": "Sistemas Digitais",
+    "carga_horaria": "64h",
+    "semestre": "1",
+    "professor": ["Prof. Oscar"]
+  },
+  {
+    "codigo": "114300006",
+    "nome": "Álgebra Linear",
+    "carga_horaria": "64h",
+    "semestre": "2",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300024",
+    "nome": "Algoritmos e Estruturas de Dados II",
+    "carga_horaria": "64h",
+    "semestre": "2",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300005",
+    "nome": "Cálculo II",
+    "carga_horaria": "96h",
+    "semestre": "2",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200311",
+    "nome": "Circuitos Elétricos",
+    "carga_horaria": "64h",
+    "semestre": "2",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300007",
+    "nome": "Matemática Discreta",
+    "carga_horaria": "64h",
+    "semestre": "2",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200313",
+    "nome": "Organização de Computadores",
+    "carga_horaria": "64h",
+    "semestre": "2",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200314",
+    "nome": "Algoritmos e Estruturas de Dados III",
+    "carga_horaria": "64h",
+    "semestre": "3",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114100007",
+    "nome": "Cálculo III",
+    "carga_horaria": "96h",
+    "semestre": "3",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200316",
+    "nome": " Circuitos Eletrônicos",
+    "carga_horaria": "64h",
+    "semestre": "3",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300009",
+    "nome": "Física I",
+    "carga_horaria": "64h",
+    "semestre": "3",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300010",
+    "nome": "Física Experimental I",
+    "carga_horaria": "32h",
+    "semestre": "3",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300008",
+    "nome": "Probabilidade e Estatística",
+    "carga_horaria": "64h",
+    "semestre": "3",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200320",
+    "nome": " Ciência dos Materiais",
+    "carga_horaria": "32h",
+    "semestre": "4",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300062",
+    "nome": "Física III",
+    "carga_horaria": "64h",
+    "semestre": "4",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300013",
+    "nome": "Física Experimental III",
+    "carga_horaria": "32h",
+    "semestre": "4",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300017",
+    "nome": " Microcontroladores",
+    "carga_horaria": "64h",
+    "semestre": "4",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200324",
+    "nome": " Modelagem Gráfica ",
+    "carga_horaria": "32h",
+    "semestre": "4",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200325",
+    "nome": "Programação Orientada a Objetos",
+    "carga_horaria": "64h",
+    "semestre": "4",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200326",
+    "nome": "Arquitetura de Computadores",
+    "carga_horaria": "64h",
+    "semestre": "5",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300030",
+    "nome": "Inteligência Artificial",
+    "carga_horaria": "64h",
+    "semestre": "5",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200328",
+    "nome": "Introdução à Engenharia de Software",
+    "carga_horaria": "64h",
+    "semestre": "5",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200329",
+    "nome": "Matemática Financeira (EAD)",
+    "carga_horaria": "64h",
+    "semestre": "5",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300016",
+    "nome": "Sinais e Sistemas",
+    "carga_horaria": "64h",
+    "semestre": "5",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200331",
+    "nome": "Sistemas Operacionais",
+    "carga_horaria": "64h",
+    "semestre": "6",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200333",
+    "nome": "Atitude Empreendedora (EAD)",
+    "carga_horaria": "64h",
+    "semestre": "6",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200334",
+    "nome": "Banco de Dados I",
+    "carga_horaria": "64h",
+    "semestre": "6",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200335",
+    "nome": "Laboratório de Arquitetura de Computadores",
+    "carga_horaria": "32h",
+    "semestre": "6",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200336",
+    "nome": "Mecânica dos Sólidos",
+    "carga_horaria": "32h",
+    "semestre": "6",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300019",
+    "nome": "Processamento de Sinais",
+    "carga_horaria": "64h",
+    "semestre": "6",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200338",
+    "nome": "Projeto e Análise de Algoritmos",
+    "carga_horaria": "64h",
+    "semestre": "6",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300021",
+    "nome": "Sistemas Embarcados",
+    "carga_horaria": "64h",
+    "semestre": "6",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200340",
+    "nome": "Fenômenos de Transportes",
+    "carga_horaria": "64h",
+    "semestre": "7",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300018",
+    "nome": "Instrumentação Industrial I",
+    "carga_horaria": "64h",
+    "semestre": "7",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200342",
+    "nome": "Projeto de Engenharia e Computação I",
+    "carga_horaria": "64h",
+    "semestre": "7",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200343",
+    "nome": "Redes de Computadores",
+    "carga_horaria": "64h",
+    "semestre": "7",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114300022",
+    "nome": "Automação Industrial",
+    "carga_horaria": "64h",
+    "semestre": "8",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200398",
+    "nome": "Introdução Aos Sistemas de Controle",
+    "carga_horaria": "64h",
+    "semestre": "8",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200399",
+    "nome": "Projeto de Engenharia e Computação II",
+    "carga_horaria": "64h",
+    "semestre": "8",
+    "professor": ["carlos"]
+  },
+  {
+    "codigo": "114200344",
+    "nome": "Teoria da Computação",
+    "carga_horaria": "64h",
+    "semestre": "7",
+    "professor": ["Prof. Ronaldo"]
+  }
+]

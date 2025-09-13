@@ -1,0 +1,262 @@
+[
+  {
+    "codigo": "114200345",
+    "nome": "Advanced Computer Networking",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200346",
+    "nome": "Advanced System Security ",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200347",
+    "nome": "Análise de Redes Sociais (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200348",
+    "nome": "Aprendizado de Máquina",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200349",
+    "nome": " Automação Industrial II",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200350",
+    "nome": "Banco de Dados II",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200351",
+    "nome": "Cálculo Numérico (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200352",
+    "nome": "Ciência de Dados (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200353",
+    "nome":  "Compiladores",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200354",
+    "nome": "Criptografia e Segurança de Dados (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200355",
+    "nome": "Desenvolvimento Para Dispositivos Móveis",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200356",
+    "nome": "Desenvolvimento Para Web I",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200357",
+    "nome": "Desenvolvimento Para Web II",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200358",
+    "nome": "Direitos Humanos e Cidadania",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200359",
+    "nome": "Distributed Computing Principles  (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200360",
+    "nome": "Física II (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114300060",
+    "nome": "Fundamentos de Matemática Elementar (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200362",
+    "nome": "Gestão de Projetos (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200363",
+    "nome": "Instrumentação Industrial II ",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200364",
+    "nome": "Inteligência de Negócios (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200365",
+    "nome": "Interação Humano-Computador",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200366",
+    "nome": "Libras",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200367",
+    "nome": "Meta-Heurístícas",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200368",
+    "nome": "Mineração de Dados",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200369",
+    "nome": "Modelagem e Controle de Sistemas Automatizado (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200370",
+    "nome": "Networking And The Internet",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200371",
+    "nome": "Pesquisa Operacional ",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200372",
+    "nome": "Plataformas e Apis (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200373",
+    "nome": "Processamento Digital de Imagens",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200374",
+    "nome": "Projeto Digital Avançado ",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200375",
+    "nome": "Redes Neurais ",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200376",
+    "nome": " Robótica",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200377",
+    "nome": " Sistemas de Controle II",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200378",
+    "nome": " Sistemas de Controle III",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200379",
+    "nome": " Tópicos Avançados em Engenharia de Computação I ",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200380",
+    "nome": "  Tópicos Avançados em Engenharia de Computação II (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200381",
+    "nome": "Tópicos em Engenharia",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200382",
+    "nome": "Tópicos em Matemática da Computação I",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200383",
+    "nome": "Tópicos em Matemática da Computação II (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200384",
+    "nome": "Tópicos em Metodologia e Técnicas da Computação I",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200385",
+    "nome": "Tópicos em Metodologia e Técnicas da Computação II (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200386",
+    "nome": "Tópicos em Sistemas de Automação ",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200387",
+    "nome": "Tópicos em Sistemas de Computação I ",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200388",
+    "nome": "Tópicos em Sistemas de Computação II (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200389",
+    "nome": "Tópicos em Sistemas de Controle",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200392",
+    "nome": "Tópicos em Sistemas de Informação I",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200393",
+    "nome": "Tópicos em Sistemas de Informação II (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200390",
+    "nome": "Tópicos em Sistemas de Telecomunicações",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200391",
+    "nome": "Tópicos em Sistemas Eletrônicos",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200394",
+    "nome": "Tópicos em Teoria da Computação I",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200395",
+    "nome": "Tópicos em Teoria da Computação II (EAD)",
+    "carga_horaria": "64h"
+  },
+  {
+    "codigo": "114200396",
+    "nome": "Visão Computacional ",
+    "carga_horaria": "64h"
+  }
+]

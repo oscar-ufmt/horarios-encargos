@@ -1,0 +1,454 @@
+{
+  "Engenharia de Computação": [
+
+    {
+      "codigo": "114300004",
+      "nome": "Cálculo I ",
+      "carga_horaria": "96h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114100014",
+      "nome": "Química Geral",
+      "carga_horaria": "32h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114100015",
+      "nome": "Química Geral Experimental",
+      "carga_horaria": "32h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114300006",
+      "nome": "Álgebra Linear",
+      "carga_horaria": "64h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114300005",
+      "nome": "Cálculo II",
+      "carga_horaria": "96h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114100007",
+      "nome": "Cálculo III",
+      "carga_horaria": "96h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300009",
+      "nome": "Física I",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300010",
+      "nome": "Física Experimental I",
+      "carga_horaria": "32h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300008",
+      "nome": "Probabilidade e Estatística",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300062",
+      "nome": "Física III",
+      "carga_horaria": "64h",
+      "semestre": "4"
+    },
+    {
+      "codigo": "114300013",
+      "nome": "Física Experimental III",
+      "carga_horaria": "32h",
+      "semestre": "4"
+    }
+  ],
+  "Engenharia de Controle e Automação": [
+
+    {
+      "codigo": "114300004",
+      "nome": "Cálculo I ",
+      "carga_horaria": "96h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114100014",
+      "nome": "Química Geral",
+      "carga_horaria": "32h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114100015",
+      "nome": "Química Geral Experimental",
+      "carga_horaria": "32h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114300006",
+      "nome": "Álgebra Linear",
+      "carga_horaria": "64h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114300005",
+      "nome": "Cálculo II",
+      "carga_horaria": "96h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114100007",
+      "nome": "Cálculo III",
+      "carga_horaria": "96h",
+      "semestre": "4"
+    },
+    {
+      "codigo": "114300009",
+      "nome": "Física I",
+      "carga_horaria": "64h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114300010",
+      "nome": "Física Experimental I",
+      "carga_horaria": "32h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114300008",
+      "nome": "Probabilidade e Estatística",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300062",
+      "nome": "Física III",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300013",
+      "nome": "Física Experimental III",
+      "carga_horaria": "32h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300060",
+      "nome": "FUNDAMENTOS DE MATEMÁTICA ELEMENTAR",
+      "carga_horaria": "64h",
+      "semestre": "1"
+    }
+
+
+
+
+  ],
+  "Engenharia Química": [
+    {
+      "codigo": "114300004",
+      "nome": "Cálculo I ",
+      "carga_horaria": "96h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114100014",
+      "nome": "Química Geral",
+      "carga_horaria": "32h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114100015",
+      "nome": "Química Geral Experimental",
+      "carga_horaria": "32h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114300006",
+      "nome": "Álgebra Linear",
+      "carga_horaria": "64h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114300005",
+      "nome": "Cálculo II",
+      "carga_horaria": "96h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114100007",
+      "nome": "Cálculo III",
+      "carga_horaria": "96h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300009",
+      "nome": "Física I",
+      "carga_horaria": "64h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114300010",
+      "nome": "Física Experimental I",
+      "carga_horaria": "32h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114300008",
+      "nome": "Probabilidade e Estatística",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300062",
+      "nome": "Física III",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300013",
+      "nome": "Física Experimental III",
+      "carga_horaria": "32h",
+      "semestre": "3"
+    }  ,
+    {
+      "codigo": "114400017",
+      "nome": "Química Analítica",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    }
+  ,
+    {
+      "codigo": "114400018",
+      "nome": "Química Analítica Experimental",
+      "carga_horaria": "32h",
+      "semestre": "3"
+    } ,
+    {
+      "codigo": "114500011",
+      "nome": "QUÍMICA INORGÂNICA",
+      "carga_horaria": "64h",
+      "semestre": "2"
+    }
+  ,
+    {
+      "codigo": "114500012",
+      "nome": "QUÍMICA INORGÂNICA EXPERIMENTAL",
+      "carga_horaria": "32h",
+      "semestre": "2"
+    } ,
+    {
+      "codigo": "114500021",
+      "nome": "QUÍMICA ORGÂNICA",
+      "carga_horaria": "64h",
+      "semestre": "4"
+    }
+  ,
+    {
+      "codigo": "114500022",
+      "nome": "QUÍMICA ORGÂNICA EXPERIMENTAL",
+      "carga_horaria": "32h",
+      "semestre": "4"
+    }
+
+
+
+
+
+
+  ],
+  "Engenharia de Transportes": [
+    {
+      "codigo": "114300004",
+      "nome": "Cálculo I ",
+      "carga_horaria": "96h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114100014",
+      "nome": "Química Geral",
+      "carga_horaria": "32h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114100015",
+      "nome": "Química Geral Experimental",
+      "carga_horaria": "32h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114300006",
+      "nome": "Álgebra Linear",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300005",
+      "nome": "Cálculo II",
+      "carga_horaria": "96h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114100007",
+      "nome": "Cálculo III",
+      "carga_horaria": "96h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300009",
+      "nome": "Física I",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300010",
+      "nome": "Física Experimental I",
+      "carga_horaria": "32h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300008",
+      "nome": "Probabilidade e Estatística",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300062",
+      "nome": "Física III",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300013",
+      "nome": "Física Experimental III",
+      "carga_horaria": "32h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114400014",
+      "nome": "GEOMETRIA ANALÍTICA",
+      "carga_horaria": "64h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114300060",
+      "nome": "FUNDAMENTOS DE MATEMÁTICA ELEMENTAR",
+      "carga_horaria": "64h",
+      "semestre": "1"
+    }  ,
+    {
+      "codigo": "114600023",
+      "nome": "FÍSICA II",
+      "carga_horaria": "64h",
+      "semestre": "4"
+    }  ,
+    {
+      "codigo": "114600024",
+      "nome": "FÍSICA EXPERIMENTAL II",
+      "carga_horaria": "32h",
+      "semestre": "4"
+    }
+
+  ],
+  "Engenharia de Minas": [
+    {
+      "codigo": "114300004",
+      "nome": "Cálculo I ",
+      "carga_horaria": "96h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114100014",
+      "nome": "Química Geral",
+      "carga_horaria": "32h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114100015",
+      "nome": "Química Geral Experimental",
+      "carga_horaria": "32h",
+      "semestre": "1"
+    },
+    {
+      "codigo": "114300006",
+      "nome": "Álgebra Linear",
+      "carga_horaria": "64h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114300005",
+      "nome": "Cálculo II",
+      "carga_horaria": "96h",
+      "semestre": "2"
+    },
+    {
+      "codigo": "114100007",
+      "nome": "Cálculo III",
+      "carga_horaria": "96h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300009",
+      "nome": "Física I",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300010",
+      "nome": "Física Experimental I",
+      "carga_horaria": "32h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300008",
+      "nome": "Probabilidade e Estatística",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    },
+    {
+      "codigo": "114300062",
+      "nome": "Física III",
+      "carga_horaria": "64h",
+      "semestre": "4"
+    },
+    {
+      "codigo": "114300013",
+      "nome": "Física Experimental III",
+      "carga_horaria": "32h",
+      "semestre": "4"
+    },
+    {
+      "codigo": "114400019",
+      "nome": "CÁLCULO NUMÉRICO",
+      "carga_horaria": "64h",
+      "semestre": "4"
+    },
+    {
+      "codigo": "114400014",
+      "nome": "GEOMETRIA ANALÍTICA",
+      "carga_horaria": "64h",
+      "semestre": "1"
+    }
+  ,
+    {
+      "codigo": "114400017",
+      "nome": "Química Analítica",
+      "carga_horaria": "64h",
+      "semestre": "3"
+    }
+  ,
+    {
+      "codigo": "114400018",
+      "nome": "Química Analítica Experimental",
+      "carga_horaria": "32h",
+      "semestre": "3"
+    }
+
+
+
+
+  ]
+}
