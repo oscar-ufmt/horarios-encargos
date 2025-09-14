@@ -1,5 +1,6 @@
 {
   "name": "horarios-frontend",
+  "homepage": "https://oscar-ufmt.github.io/horarios-encargos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
